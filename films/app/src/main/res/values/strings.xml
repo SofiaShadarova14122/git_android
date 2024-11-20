@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">films</string>
+    <string name="films">Films</string>
+    <string name="next">Next</string>
+    <string name="reset">Reset</string>
+    <string-array name="movies">
+        <item>Harry Potter and the Sorcerers Stone</item>
+        <item>Avatar</item>
+        <item>Titanic</item>
+        <item>Star Wars: Episode IV - A New Hope</item>
+        <item>The Avengers</item>
+        <item>Jurassic Park</item>
+        <item>The Lion King</item>
+        <item>The Lord of the Rings: The Return of the King</item>
+    </string-array>
+</resources>
