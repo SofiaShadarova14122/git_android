@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colors">
+        <item name="DarkOliveGreen">#5E7153</item>
+        <item name="LaurelGreen">#A9B489</item>
+        <item name="Cornsilk">#FCECE4</item>
+        <item name="LemonMeringue">#F9ECCC</item>
+        <item name="Camel">#BB9370</item>
+        <item name="AlloyOrange">#C66428</item>
+        <item name="Russet">#783E19</item>
+    </string-array>
+</resources>
